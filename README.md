@@ -1,2 +1,2 @@
 # extra_addons
-Addons complementarios para la localización cubana 
+Addons complementarios para la localización cubana.
